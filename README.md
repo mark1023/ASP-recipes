@@ -1,4 +1,4 @@
-# mark1023.github.io
+# ASPrecipes.github.io
 
 This a web application containing Vegan Recipes, specifically aimed at those looking to get/stay in shape.
 
